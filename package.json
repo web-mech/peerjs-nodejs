@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "githubp:web-mech/peerjs-nodejs.git"
+    "url": "git://github.com/web-mech/peerjs-nodejs.git"
   },
   "keywords": [],
   "author": "",
