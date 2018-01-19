@@ -1,0 +1,28 @@
+{
+  "name": "peerjs-nodejs",
+  "version": "1.0.0",
+  "description": "A peerjs client that works within nodejs apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "githubp:web-mech/peerjs-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "BlobBuilder": "^0.10.0",
+    "binary-pack": "^1.0.2",
+    "electron-webrtc": "^0.3.0",
+    "peerjs": "https://github.com/web-mech/peerjs.git",
+    "ws": "^4.0.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "chai": "^4.1.2"
+  }
+}
