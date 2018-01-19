@@ -1,15 +1,13 @@
 window = global;
-window.BlobBuilder = require('BlobBuilder');
 
-BinaryPack = require('binary-pack')
 XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
+
 var wrtc = require('electron-webrtc')()
 
 
 RTCPeerConnection = wrtc.RTCPeerConnection;
 RTCSessionDescription = wrtc.RTCSessionDescription;
 RTCIceCandidate = wrtc.RTCIceCandidate;
-
 
 WebSocket = require('ws');
 location = {

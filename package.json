@@ -14,8 +14,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "BlobBuilder": "^0.10.0",
-    "binary-pack": "^1.0.2",
     "electron-webrtc": "^0.3.0",
     "peerjs": "https://github.com/web-mech/peerjs.git",
     "ws": "^4.0.0",
